@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\LT\\C#\\NguyenPhamDinhMan_6551071052_BTLT7\\Cau2_C8_QuanLyHoiGym\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:3:0:{1F8DBA3D-5C32-57B5-18B5-5232677001E0}|Cau2_C8_QuanLyHoiGym\\Cau2_C8_QuanLyHoiGym.csproj|c:\\users\\admin\\lt\\c#\\nguyenphamdinhman_6551071052_btlt7\\cau2_c8_quanlyhoigym\\cau2_c8_quanlyhoigym\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:3:0:{1F8DBA3D-5C32-57B5-18B5-5232677001E0}|Cau2_C8_QuanLyHoiGym\\Cau2_C8_QuanLyHoiGym.csproj|solutionrelative:cau2_c8_quanlyhoigym\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{1F8DBA3D-5C32-57B5-18B5-5232677001E0}|Cau2_C8_QuanLyHoiGym\\Cau2_C8_QuanLyHoiGym.csproj|c:\\users\\admin\\lt\\c#\\nguyenphamdinhman_6551071052_btlt7\\cau2_c8_quanlyhoigym\\cau2_c8_quanlyhoigym\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:2:0:{1F8DBA3D-5C32-57B5-18B5-5232677001E0}|Cau2_C8_QuanLyHoiGym\\Cau2_C8_QuanLyHoiGym.csproj|solutionrelative:cau2_c8_quanlyhoigym\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDEDC00-D100-496D-B2F7-DAE1CB13A282}|Cau2_C8_QuanLyHoiGym\\Cau2_C8_QuanLyHoiGym.csproj|C:\\Users\\Admin\\LT\\C#\\NguyenPhamDinhMan_6551071052_BTLT7\\Cau2_C8_QuanLyHoiGym\\cau2_c8_quanlyhoigym\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4CDEDC00-D100-496D-B2F7-DAE1CB13A282}|Cau2_C8_QuanLyHoiGym\\Cau2_C8_QuanLyHoiGym.csproj|solutionrelative:cau2_c8_quanlyhoigym\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\LT\\C#\\NguyenPhamDinhMan_6551071052_BTLT7\\Cau2_C8_QuanLyHoiGym\\Cau2_C8_QuanLyHoiGym\\Form1.cs",
+              "RelativeDocumentMoniker": "Cau2_C8_QuanLyHoiGym\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\LT\\C#\\NguyenPhamDinhMan_6551071052_BTLT7\\Cau2_C8_QuanLyHoiGym\\Cau2_C8_QuanLyHoiGym\\Form1.cs [Design]",
+              "RelativeToolTip": "Cau2_C8_QuanLyHoiGym\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T15:10:19.9Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\LT\\C#\\NguyenPhamDinhMan_6551071052_BTLT7\\Cau2_C8_QuanLyHoiGym\\Cau2_C8_QuanLyHoiGym\\Form1.cs",
+              "RelativeDocumentMoniker": "Cau2_C8_QuanLyHoiGym\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\LT\\C#\\Cau2_C8_QuanLyHoiGym\\Cau2_C8_QuanLyHoiGym\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\Cau2_C8_QuanLyHoiGym\\Cau2_C8_QuanLyHoiGym\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T03:48:04.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\LT\\C#\\NguyenPhamDinhMan_6551071052_BTLT7\\Cau2_C8_QuanLyHoiGym\\Cau2_C8_QuanLyHoiGym\\Form1.cs",
+              "RelativeDocumentMoniker": "Cau2_C8_QuanLyHoiGym\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\LT\\C#\\NguyenPhamDinhMan_6551071052_BTLT7\\Cau2_C8_QuanLyHoiGym\\Cau2_C8_QuanLyHoiGym\\Form1.cs [Design]",
+              "RelativeToolTip": "Cau2_C8_QuanLyHoiGym\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T00:47:21.544Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

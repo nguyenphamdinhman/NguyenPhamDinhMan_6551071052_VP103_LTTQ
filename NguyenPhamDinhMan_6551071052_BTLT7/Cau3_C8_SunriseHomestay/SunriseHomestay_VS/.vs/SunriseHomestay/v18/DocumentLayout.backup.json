@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\LT\\C#\\NguyenPhamDinhMan_6551071052_BTLT7\\Cau3_C8_SunriseHomestay\\SunriseHomestay_VS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2A6B1C-5D4E-4A7B-9C10-2E8D7F6A1B33}|SunriseHomestay\\SunriseHomestay.csproj|c:\\users\\admin\\lt\\c#\\nguyenphamdinhman_6551071052_btlt7\\cau3_c8_sunrisehomestay\\sunrisehomestay_vs\\sunrisehomestay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2A6B1C-5D4E-4A7B-9C10-2E8D7F6A1B33}|SunriseHomestay\\SunriseHomestay.csproj|solutionrelative:sunrisehomestay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2A6B1C-5D4E-4A7B-9C10-2E8D7F6A1B33}|SunriseHomestay\\SunriseHomestay.csproj|c:\\users\\admin\\lt\\c#\\nguyenphamdinhman_6551071052_btlt7\\cau3_c8_sunrisehomestay\\sunrisehomestay_vs\\sunrisehomestay\\sunrisehomestay.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3F2A6B1C-5D4E-4A7B-9C10-2E8D7F6A1B33}|SunriseHomestay\\SunriseHomestay.csproj|solutionrelative:sunrisehomestay\\sunrisehomestay.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SunriseHomestay.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\LT\\C#\\NguyenPhamDinhMan_6551071052_BTLT7\\Cau3_C8_SunriseHomestay\\SunriseHomestay_VS\\SunriseHomestay\\SunriseHomestay.csproj",
+              "RelativeDocumentMoniker": "SunriseHomestay\\SunriseHomestay.csproj",
+              "ToolTip": "C:\\Users\\Admin\\LT\\C#\\NguyenPhamDinhMan_6551071052_BTLT7\\Cau3_C8_SunriseHomestay\\SunriseHomestay_VS\\SunriseHomestay\\SunriseHomestay.csproj",
+              "RelativeToolTip": "SunriseHomestay\\SunriseHomestay.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-11T14:16:07.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\LT\\C#\\NguyenPhamDinhMan_6551071052_BTLT7\\Cau3_C8_SunriseHomestay\\SunriseHomestay_VS\\SunriseHomestay\\Program.cs",
+              "RelativeDocumentMoniker": "SunriseHomestay\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\LT\\C#\\NguyenPhamDinhMan_6551071052_BTLT7\\Cau3_C8_SunriseHomestay\\SunriseHomestay_VS\\SunriseHomestay\\Program.cs",
+              "RelativeToolTip": "SunriseHomestay\\Program.cs",
+              "ViewState": "AgIAAH4BAAAAAAAAAAAIwM8BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T14:15:07.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
