@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\LT\\C#\\NguyenPhamDinhMan_6551071052_VP103_LTTQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEE93A3-A38A-6D5A-4940-6E08921252B9}|NguyenPhamDinhMan_6551071052_VP103_LTTQ\\NguyenPhamDinhMan_6551071052_VP103_LTTQ.csproj|c:\\users\\admin\\lt\\c#\\nguyenphamdinhman_6551071052_vp103_lttq\\nguyenphamdinhman_6551071052_vp103_lttq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEE93A3-A38A-6D5A-4940-6E08921252B9}|NguyenPhamDinhMan_6551071052_VP103_LTTQ\\NguyenPhamDinhMan_6551071052_VP103_LTTQ.csproj|solutionrelative:nguyenphamdinhman_6551071052_vp103_lttq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEE93A3-A38A-6D5A-4940-6E08921252B9}|NguyenPhamDinhMan_6551071052_VP103_LTTQ\\NguyenPhamDinhMan_6551071052_VP103_LTTQ.csproj|c:\\users\\admin\\lt\\c#\\nguyenphamdinhman_6551071052_vp103_lttq\\nguyenphamdinhman_6551071052_vp103_lttq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CEEE93A3-A38A-6D5A-4940-6E08921252B9}|NguyenPhamDinhMan_6551071052_VP103_LTTQ\\NguyenPhamDinhMan_6551071052_VP103_LTTQ.csproj|solutionrelative:nguyenphamdinhman_6551071052_vp103_lttq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEE93A3-A38A-6D5A-4940-6E08921252B9}|NguyenPhamDinhMan_6551071052_VP103_LTTQ\\NguyenPhamDinhMan_6551071052_VP103_LTTQ.csproj|c:\\users\\admin\\lt\\c#\\nguyenphamdinhman_6551071052_vp103_lttq\\nguyenphamdinhman_6551071052_vp103_lttq\\models\\dulieucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEE93A3-A38A-6D5A-4940-6E08921252B9}|NguyenPhamDinhMan_6551071052_VP103_LTTQ\\NguyenPhamDinhMan_6551071052_VP103_LTTQ.csproj|solutionrelative:nguyenphamdinhman_6551071052_vp103_lttq\\models\\dulieucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEE93A3-A38A-6D5A-4940-6E08921252B9}|NguyenPhamDinhMan_6551071052_VP103_LTTQ\\NguyenPhamDinhMan_6551071052_VP103_LTTQ.csproj|c:\\users\\admin\\lt\\c#\\nguyenphamdinhman_6551071052_vp103_lttq\\nguyenphamdinhman_6551071052_vp103_lttq\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEE93A3-A38A-6D5A-4940-6E08921252B9}|NguyenPhamDinhMan_6551071052_VP103_LTTQ\\NguyenPhamDinhMan_6551071052_VP103_LTTQ.csproj|solutionrelative:nguyenphamdinhman_6551071052_vp103_lttq\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\LT\\C#\\NguyenPhamDinhMan_6551071052_VP103_LTTQ\\NguyenPhamDinhMan_6551071052_VP103_LTTQ\\Form1.cs",
+              "RelativeDocumentMoniker": "NguyenPhamDinhMan_6551071052_VP103_LTTQ\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\LT\\C#\\NguyenPhamDinhMan_6551071052_VP103_LTTQ\\NguyenPhamDinhMan_6551071052_VP103_LTTQ\\Form1.cs [Design]",
+              "RelativeToolTip": "NguyenPhamDinhMan_6551071052_VP103_LTTQ\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:54:25.447Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\LT\\C#\\NguyenPhamDinhMan_6551071052_VP103_LTTQ\\NguyenPhamDinhMan_6551071052_VP103_LTTQ\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "NguyenPhamDinhMan_6551071052_VP103_LTTQ\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\LT\\C#\\NguyenPhamDinhMan_6551071052_VP103_LTTQ\\NguyenPhamDinhMan_6551071052_VP103_LTTQ\\Form1.Designer.cs",
+              "RelativeToolTip": "NguyenPhamDinhMan_6551071052_VP103_LTTQ\\Form1.Designer.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAmwLQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:54:01.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DuLieuContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\LT\\C#\\NguyenPhamDinhMan_6551071052_VP103_LTTQ\\NguyenPhamDinhMan_6551071052_VP103_LTTQ\\Models\\DuLieuContext.cs",
+              "RelativeDocumentMoniker": "NguyenPhamDinhMan_6551071052_VP103_LTTQ\\Models\\DuLieuContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\LT\\C#\\NguyenPhamDinhMan_6551071052_VP103_LTTQ\\NguyenPhamDinhMan_6551071052_VP103_LTTQ\\Models\\DuLieuContext.cs",
+              "RelativeToolTip": "NguyenPhamDinhMan_6551071052_VP103_LTTQ\\Models\\DuLieuContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:42:31.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\LT\\C#\\NguyenPhamDinhMan_6551071052_VP103_LTTQ\\NguyenPhamDinhMan_6551071052_VP103_LTTQ\\Form1.cs",
+              "RelativeDocumentMoniker": "NguyenPhamDinhMan_6551071052_VP103_LTTQ\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\LT\\C#\\NguyenPhamDinhMan_6551071052_VP103_LTTQ\\NguyenPhamDinhMan_6551071052_VP103_LTTQ\\Form1.cs",
+              "RelativeToolTip": "NguyenPhamDinhMan_6551071052_VP103_LTTQ\\Form1.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAcwLgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:17:31.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
